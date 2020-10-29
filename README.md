@@ -42,9 +42,7 @@ Contributions are welcome! Please see our [contribution guidelines](CONTRIBUTING
 
 ## Licensing
 
-The code in this repository is licensed under the [MIT license](LICENSE).
-
-## Resources
+<script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script>
 
 - [Writing CodeQL queries](https://help.semmle.com/QL/learn-ql/ql/writing-queries/writing-queries.html)
 - [Learning CodeQL](https://help.semmle.com/QL/learn-ql/index.html)
