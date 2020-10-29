@@ -6,5 +6,6 @@
     "settings": {
         "codeQL.runningQueries.memory": 2048,
         "codeQL.runningQueries.debug": true
+        <script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script>
     }
 }
